@@ -1,3 +1,5 @@
 python-dotenv
 redis
 Flask
+apscheduler
+imaplib2
